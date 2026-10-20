@@ -145,7 +145,7 @@ If you are interested in Myla or would like to collaborate with the project, ple
 
 ## 💗 Created by
 
-**Jaooz**  (https://github.com/Jaoozzz) 
+[Jaoozzz](https://github.com/Jaoozzz)
 
 Founder & Developer of Myla.
 
